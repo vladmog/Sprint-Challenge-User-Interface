@@ -94,7 +94,7 @@ You will also notice there are 10 boxes on the home page that need background co
 * [ ] box7: `darkorchid`
 * [ ] box8: `hotpink`
 * [ ] box9: `indigo`
-* [ ] box10: `dodgerblue`
+* [ ] box10: `dodgerblue` 
 
 ### About Page
 
